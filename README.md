@@ -18,19 +18,19 @@ The workflow includes data visualization, preprocessing, model training, evaluat
 1. **Dataset Exploration and Visualization**
     - View and visualize the input time series.
 
-    ![Sample data and visualization](1.png)
+    ![Sample data and visualization](images/1.png)
 
 2. **LSTM Model Training**
     - Sequence preprocessing, scaling, splitting to train/test.
     - Model architecture: single LSTM layer + Dense output.
     - Visualization of training and validation loss.
 
-    ![LSTM Training Loss](2.png)
+    ![LSTM Training Loss](images/2.png)
 
 3. **Evaluation and Prediction**
     - Comparison of LSTM predictions with actual values on the test set.
 
-    ![LSTM True vs Predicted](3.png)
+    ![LSTM True vs Predicted](images/3.png)
 
 ---
 
