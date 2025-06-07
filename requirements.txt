@@ -1,0 +1,6 @@
+Python 3.8+
+TensorFlow >= 2.0
+Keras
+matplotlib
+pandas
+scikit-learn
